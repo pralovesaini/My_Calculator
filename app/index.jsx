@@ -84,7 +84,7 @@ export default function Home() {
 const styles = StyleSheet.create({
   maincontiner: {
     flex: 1,
-    backgroundColor: "black",
+    backgroundColor: "white",
   },
   display: {
     flex: 1,
