@@ -84,7 +84,7 @@ export default function Home() {
 const styles = StyleSheet.create({
   maincontiner: {
     flex: 1,
-    backgroundColor: "black",
+    backgroundColor: "white",
   },
   display: {
     flex: 1,
@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
     margin: 20,
   },
   buttonText: {
-    color: "white",
+    color: "Black",
     fontSize: 36,
   },
   buttons: {
@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
     paddingVertical: 18,
   },
   expression: {
-    color: "white",
+    color: "Black",
     fontSize: 24,
   },
   buttonTouchable: {
@@ -120,7 +120,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
   },
   resVal: {
-    color: "white",
+    color: "Black",
     fontSize: 38,
     fontWeight: "bold",
   },
